@@ -6,7 +6,7 @@ let yoff = 10000;
 
 function setup() {
     createCanvas(800, 800);
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 7; i++) {
         let x1 = random(width);
         let x2 = random(width);
         let y1 = random(height);
